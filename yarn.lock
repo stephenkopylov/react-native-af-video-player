@@ -2674,11 +2674,9 @@ react-native-keep-awake@^2.0.6:
   version "2.0.6"
   resolved "https://npmjs.eoadm.com/react-native-keep-awake/-/react-native-keep-awake-2.0.6.tgz#d8eaffe0a6377cc197469d9f06c7f317225403db"
 
-react-native-linear-gradient@2.3.0:
-  version "2.3.0"
-  resolved "https://npmjs.eoadm.com/react-native-linear-gradient/-/react-native-linear-gradient-2.3.0.tgz#757997197e35edf52e290891a11566e462845da1"
-  dependencies:
-    prop-types "^15.5.10"
+react-native-linear-gradient@^2.5.4:
+  version "2.5.4"
+  resolved "https://npmjs.eoadm.com/react-native-linear-gradient/-/react-native-linear-gradient-2.5.4.tgz#dce133526f5a5510a639af94544f1ed0c984bd1e"
 
 react-native-orientation@^3.1.0:
   version "3.1.3"
